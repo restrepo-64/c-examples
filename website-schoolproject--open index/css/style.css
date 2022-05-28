@@ -1,0 +1,94 @@
+/* Style sheet made by: Alexandra Restrepo, 1/22/18 */
+
+header {
+	display: block;
+	text-align: left;
+	font-size: 2em;
+	
+}
+header h1{
+	padding-top: 40px;
+}
+header img {
+	float: left;
+	width: 100px;
+	height: 100px;
+	
+}
+/*I learned how to make just the rows or just the tables have lines. css is amazing*/
+table{
+	border-collapse: collapse;
+}
+tr{
+	border-bottom: 1px double #e2edff;
+	border-top: 1px double #e2edff;
+}
+
+body {
+	background-color: #4d5e7a;
+	color: #e2edff;
+	text-align: left;
+	font-family: "Bookman Old Style";
+	font-weight: 100;
+	font-size: 20px;
+	text-align: center;
+}
+nav ul {
+	padding: 0;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+	border-radius: 1em;
+	margin: 0.3em;
+	padding: 0.4em;
+	display: inline-block;
+	
+	
+	}
+nav li {
+	background-color: #034cc4;
+	border-radius: 1em;
+	list-style-type: none;
+	margin: 0.3em;
+	padding: 0.4em;
+	display: inline;
+	}
+nav a{
+	color: #e2edff;
+	
+	
+}
+nav a:hover {
+		color: #ffffff;
+		
+	}
+/*in retrospect, a single web page design would look better*/
+p {
+	padding: 1em;	
+	margin-left: 1em;
+	}
+/*nav {
+	background-color: #034cc4;
+	border-radius: 1em;
+	margin: 0.3em;
+	padding: 0.4em;
+	display: inline;
+	text-align: center;
+	font-size: 1em;
+}*/
+.floatleft {
+	float: left;
+}
+.floatright {
+	float:right;
+}
+img {
+	padding: 1em;
+	
+}
+dl{
+	text-align: left;
+}
+dt{
+	font-weight: bold;
+}
+
