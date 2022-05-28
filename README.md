@@ -14,4 +14,4 @@ rows and arrays again
 
 # Java
 
-A fun project we made in school demonstrating multiple concepts in java
+A fun project we made in school demonstrating multiple concepts in java that asks your name then draws your name and several colored overlapping circles
