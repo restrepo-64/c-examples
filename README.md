@@ -16,6 +16,6 @@ rows and arrays again
 
 A fun project we made in school demonstrating multiple concepts in java that asks your name then draws your name and several colored overlapping circles
 
-# Website for School Projects
+# Website for School Project
 
 Simple website using HTML/CSS explaining shiny Pokémon, on brand with my nerdiness
